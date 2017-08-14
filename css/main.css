@@ -23,7 +23,7 @@ a {
   outline: none;
 }
 a:hover {
-  color: #4b42a3;
+  color: #f60;
 }
 table {
   margin: 10px 0;
@@ -37,7 +37,7 @@ table {
 .site-header {
   -webkit-transition: 0.5s all;
           transition: 0.5s all;
-  background-color: #fff;
+  background-color: #eee;
   z-index: 9999;
   border-bottom: 1px solid #e9e9e9;
   height: 100px;
