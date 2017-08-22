@@ -9,7 +9,6 @@ mathjax: true
 ---
 问题：编程实现查找输入字符串最大不重复子串长度，如"ccccbc"最大子串为"cb"或"bc",所以长度为2
 java代码:
-
 import java.util.ArrayList;
 import java.util.Scanner;
 public class test3 {
