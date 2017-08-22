@@ -11,6 +11,7 @@ mathjax: true
 java代码:
 import java.util.ArrayList;
 import java.util.Scanner;
+
 public class test3 {
 	public static int lengthOfLongestSubstring(String s) {
 		int index1=0;//定义首尾两个指针
