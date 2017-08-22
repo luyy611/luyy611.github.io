@@ -7,13 +7,12 @@ tags: java programming
 excerpt: 
 mathjax: true
 ---
-问题：编程实现查找输入字符串[最大不重复子串长度]，如"ccccbc"最大子串为"cb"或"bc",所以长度为2
-[java]代码:
+问题：编程实现查找输入字符串最大不重复子串长度，如"ccccbc"最大子串为"cb"或"bc",所以长度为2
+java代码:
+
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class test3 {
-
 	public static int lengthOfLongestSubstring(String s) {
 		int index1=0;//定义首尾两个指针
 		int index2=index1+1;
